@@ -11,6 +11,9 @@ import androidx.appcompat.app.AppCompatActivity
 import kotlinx.android.synthetic.main.activity_main.*
 import java.util.*
 
+/**
+ * this activity is created on 28-6-20 by Mrinmoy
+ * **/
 
 class MainActivity : AppCompatActivity() {
 
